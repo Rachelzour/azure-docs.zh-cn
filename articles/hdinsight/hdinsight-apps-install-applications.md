@@ -1,5 +1,5 @@
 ---
-title: 在 Azure HDInsight 上安装第三方应用程序
+title: 在 Azure HDInsight 上安装 第三方应用程序
 description: 了解如何在 Azure HDInsight 上安装第三方 Hadoop 应用程序。
 services: hdinsight
 author: hrasheed-msft
